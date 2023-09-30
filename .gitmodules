@@ -1,3 +1,6 @@
 [submodule "git-submodule"]
 	path = git-submodule
 	url = https://github.com/ShuyiGeng/git-submodule.git
+[submodule "maf_worldmodel_traffic_light"]
+	path = maf_worldmodel_traffic_light
+	url = https://github.com/ShuyiGeng/maf_worldmodel_traffic_light.git
